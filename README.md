@@ -1,4 +1,5 @@
 # PowerBi-Project-California-Telco-Analysis
+<img width="619" alt="Overview" src="https://github.com/Masg1103/PowerBi-Project-California-Telco-Analysis/assets/139725529/181412c0-2771-4860-8385-b153266d1df7">
 
 ## Understanding Why Customers Leave: A Look at Customer Churn at California Telco Network
 This Power BI project dives into a common challenge faced by many telecommunication providers: keeping customers happy and preventing them from switching to competitors (customer churn).
@@ -29,6 +30,6 @@ The goal is to give California Telco Network valuable insights to reduce churn a
 
 Please note: California Telco Network is fictional and created for this specific exercise.
 
-The links to the written reports can be found below
-https://medium.com/@mamigyasi/deconstructing-customer-churn-insights-from-california-telco-networks-data-using-power-bi-0022b04514c0
-https://mavenanalytics.io/project/13843
+**The links to the written reports can be found below**
+- https://medium.com/@mamigyasi/deconstructing-customer-churn-insights-from-california-telco-networks-data-using-power-bi-0022b04514c0
+- https://mavenanalytics.io/project/13843
