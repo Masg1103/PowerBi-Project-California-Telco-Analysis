@@ -28,3 +28,7 @@ This project uses data analysis to uncover the reasons why customers leave Calif
 The goal is to give California Telco Network valuable insights to reduce churn and build stronger customer relationships.  This could involve creating targeted programs to address customer needs and keep them engaged with the company.  By taking these steps, California Telco Network can ensure its long-term success in the competitive telecom industry.
 
 Please note: California Telco Network is fictional and created for this specific exercise.
+
+The links to the written reports can be found below
+https://medium.com/@mamigyasi/deconstructing-customer-churn-insights-from-california-telco-networks-data-using-power-bi-0022b04514c0
+https://mavenanalytics.io/project/13843
